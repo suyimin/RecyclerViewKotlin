@@ -34,11 +34,6 @@ Pre-requisites
 - Android Gradle Plugin 3.0
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/1-linear.png" height="400" alt="Screenshot"/> <img src="screenshots/2-grid.png" height="400" alt="Screenshot"/>
-
 Getting Started
 ---------------
 
